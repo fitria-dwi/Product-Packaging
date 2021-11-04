@@ -4,7 +4,8 @@
   1. More competitors.
   2. There are still many products that are in abundant stock. 
  
-### Goals: Create innovative packages, where products that previously did not sell well but have market share can be packaged and sold.
+### Goals: 
+Create innovative packages, where products that previously did not sell well but have market share can be packaged and sold.
 
 ### Responsibilities:
 In order to increase profits and customer loyalty, companies have to identify attractive product packages.
