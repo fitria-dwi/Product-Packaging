@@ -1,4 +1,4 @@
-# Product-Packaging
+# Product Packaging
 
 ### Problems:
   1. More competitors.
@@ -16,18 +16,18 @@ In order to increase profits and customer loyalty, companies have to identify at
   
      The 10 most “attractive” product combination packages with the following conditions:
      
-      * Having close associations or relationships.
-      * A minimum of 2 product combinations and a maximum of 3 items.
-      * The product combination appears in at least 10 of all transactions.
-      * Have a minimum confidence level of 50 percent.
+      a. Having close associations or relationships.
+      b. A minimum of 2 product combinations and a maximum of 3 items.
+      c. The product combination appears in at least 10 of all transactions.
+      d. Have a minimum confidence level of 50 percent.
          
   **3. Finding for product packages that can be paired with slow-moving items.**
   
-     > Slow-moving items are products whose sales movements are slow or not fast enough. This will be problematic if the product items are still piling up. The reason why it      doesn’t sell may be because the price is not good and it is rarely needed if sold individually.
+     Slow-moving items are products whose sales movements are slow or not fast enough. This will be problematic if the product items are still piling up. The reason why it doesn’t sell may be because the price is not good and it is rarely needed if sold individually.
      
-     > **Solution**: Create an attractive package consisting of slow-moving products and other products that have strong associations with these slow-moving products. The          two product items are “Tas Makeup” and “Baju Renang Pria Anak-anak”. The following are the conditions for product combination packages:
+     **Solution**: Create an attractive package consisting of slow-moving products and other products that have strong associations with these slow-moving products. The          two product items are “Tas Makeup” and “Baju Renang Pria Anak-anak”. The following are the conditions for product combination packages:
   
-       * Having close associations or relationships.
-       * A minimum of 2 product combinations and a maximum of 3 items.
-       * The product combination appears in at least 10 of all transactions.
-       * Have a minimum confidence level of 10 percent.
+       a. Having close associations or relationships.
+       b. A minimum of 2 product combinations and a maximum of 3 items.
+       c. The product combination appears in at least 10 of all transactions.
+       d. Have a minimum confidence level of 10 percent.
