@@ -9,6 +9,7 @@ Create innovative packages, where products that previously did not sell well but
 
 ### Responsibilities:
 In order to increase profits and customer loyalty, companies have to identify attractive product packages.
+  
   **1. Gain insights from the top 10 and bottom 10 products sold.**
   
   **2. Finding attractive product combinations.**
