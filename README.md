@@ -25,7 +25,7 @@ In order to increase profits and customer loyalty, companies have to identify at
   
      Slow-moving items are products whose sales movements are slow or not fast enough. This will be problematic if the product items are still piling up. The reason why it doesn’t sell may be because the price is not good and it is rarely needed if sold individually.
      
-     **Solution**: Create an attractive package consisting of slow-moving products and other products that have strong associations with these slow-moving products. The          two product items are “Tas Makeup” and “Baju Renang Pria Anak-anak”. The following are the conditions for product combination packages:
+     Solution: Create an attractive package consisting of slow-moving products and other products that have strong associations with these slow-moving products. The          two product items are “Tas Makeup” and “Baju Renang Pria Anak-anak”. The following are the conditions for product combination packages:
   
        a. Having close associations or relationships.
        b. A minimum of 2 product combinations and a maximum of 3 items.
