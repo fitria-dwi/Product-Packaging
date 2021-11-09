@@ -5,17 +5,17 @@
 
 ------------------------------------------------------------------------
 
-##### **Problems**:
+#### **Problems**:
 
 1.  More competitors.
 2.  There are still many products that are in abundant stock.
 
-##### **Goals**:
+#### **Goals**:
 
 Create innovative packages, where products that previously did not sell
 well but have market share can be packaged and sold.
 
-##### **Responsibilities**:
+#### **Responsibilities**:
 
 In order to increase profits and customer loyalty, companies have to
 identify attractive product packages.
@@ -27,7 +27,7 @@ identify attractive product packages.
 
 ------------------------------------------------------------------------
 
-##### **Import Library**
+#### **Import Library**
 
 ``` r
 library(arules)
@@ -35,7 +35,7 @@ library(arules)
 
     ## Warning: package 'arules' was built under R version 4.1.1
 
-##### **Import Dataset**
+#### **Import Dataset**
 
 -   Transaction data for 3 months.
 -   Consisting of 2 variables (transaction code, product name).
@@ -49,7 +49,7 @@ transaksi_retail
     ##  3450 transactions (rows) and
     ##  69 items (columns)
 
-##### **Top 10 Product**
+#### **Top 10 Product**
 
 ``` r
 top_10 <- sort(itemFrequency(transaksi_retail, type="absolute"), decreasing = TRUE)[1:10]
@@ -69,7 +69,7 @@ print(top_10)
     ## 9        Sepatu Sport merk Z   888
     ## 10              Wedges Hitam   849
 
-##### **Bottom 10 Product**
+#### **Bottom 10 Product**
 
 ``` r
 bottom_10 <- sort(itemFrequency(transaksi_retail, type="absolute"), decreasing = FALSE)[1:10]
@@ -89,7 +89,7 @@ print(bottom_10)
     ## 9  Tas Sekolah Anak Perempuan    71
     ## 10              Dompet Unisex    75
 
-##### **Finding Attractive Product Combinations**
+#### **Finding Attractive Product Combinations**
 
 The 10 most “attractive” product combination packages with the following
 conditions:
