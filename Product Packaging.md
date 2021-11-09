@@ -162,7 +162,7 @@ inspect(data_kombinasi)
 write(data_kombinasi, file="kombinasi_retail.txt")
 ```
 
-##### **Finding for Product Packages that can be paired with Slow-Moving Items**
+#### **Finding for Product Packages that can be paired with Slow-Moving Items**
 
 Slow-moving items are products whose sales movements are slow or not
 fast enough. This will be problematic if the product items are still
