@@ -3,7 +3,6 @@
 **Author: Fitria Dwi Wulandari (<wulan391@sci.ui.ac.id>) - September 21,
 2021.**
 
-------------------------------------------------------------------------
 
 #### **Problems**:
 
